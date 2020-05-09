@@ -12,7 +12,7 @@ Dowload the whole content of the project.
 For master, run the CubeMX file SAIP10m.ioc and generate project for IAR EWARM. Open the generated project, Download and Degug (Ctrl+R) in the Master board, then Go (F5).
 For slave, run the CubeMX file SAIP10s.ioc and generate project for IAR EWARM. Open the generated project, Download and Degug (Ctrl+R) in the Slave board, then Go (F5).
 In the Live watch field of the board we may see the Tx and Rx buffers as in the file Screen1.png (https://github.com/SeverSpa/STM32F4_SPI_2Boards/blob/master/STM32F%24_SPI_2Boards/Screen1.png)
-When the attached Labview file (LV1_4zecimal.vi) is run with the proper COM port, we may see the chart of the IN1 signal as in file Screen2.png.  
+When the attached Labview file (LV1_4zecimal.vi) is run with the proper COM port, we may see the chart of the IN1 signal as in file Screen2.png (https://github.com/SeverSpa/STM32F4_SPI_2Boards/blob/master/STM32F%24_SPI_2Boards/Screen2.png).  
 
 3. Software context
 
