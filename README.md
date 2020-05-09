@@ -30,7 +30,7 @@ Notice: For other software context, some modifications may be necessary, as the 
 
 4. Hardware context
 
--STM32F4 -Discovery, as Master with USART1 on PB6 and PB&, and SPI on PB3, PB4 and PB5.
+-STM32F4 -Discovery, as Master with USART1 on PB6 and PB7, and SPI on PB3, PB4 and PB5.
 
 -STM32F4 -Discovery, as Slave with with SPI on PB3, PB4 and PB5 and a potentiometer on PA1, GND and VCC.
 
