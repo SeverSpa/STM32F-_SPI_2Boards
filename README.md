@@ -1,4 +1,4 @@
-# STM32F-_SPI_2Boards
+# STM32F4_SPI_2Boards
 
 1. Description
 
